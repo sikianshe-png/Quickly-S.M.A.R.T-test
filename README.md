@@ -1,5 +1,8 @@
 # Quickly-S.M.A.R.T-test
-一键快速且批量的对主机上所有硬盘进行smart测试
+
+一键快速且批量的对主机上所有硬盘进行smart测试。
+
+One-hit for fast and batch SMART testing of all disk on the host.
 
 
 Example:
